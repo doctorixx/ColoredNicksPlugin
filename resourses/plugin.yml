@@ -1,0 +1,12 @@
+name: ColoredNicks
+author: Doctorixx
+main: com.Doctorixx.main.ColoredNicks
+version: 0.1
+api-version: 1.14
+description: This plugin can change color of player`s nicks
+depend:
+  [ LuckPerms , Vault]
+commands:
+  color:
+    usage: /color <COLOR>
+    description: This command change you color in TAB and in Chat
