@@ -5,6 +5,8 @@
 [[Ru]](https://github.com/Windows-up/ColoredNicksPlugin#ru)
 [[EN]](https://github.com/Windows-up/ColoredNicksPlugin#en)
 
+___
+
 ## [EN]
 Plugin for minecraft for change nickname color
 
@@ -27,6 +29,7 @@ Plugin for minecraft for change nickname color
 * [Vault](https://https://www.spigotmc.org/resources/vault.34315/)
 * [LuckPerms](https://luckperms.net/download)
 
+___
 
 ## [RU]
 Плагин для майнкрафт, благодаря которому игроки смогут сменить себе цвет ника
