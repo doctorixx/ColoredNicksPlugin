@@ -4,6 +4,7 @@ main: com.Doctorixx.main.ColoredNicks
 version: 0.1
 api-version: 1.14
 description: This plugin can change color of player`s nicks
+folia-supported: true
 depend:
   [ LuckPerms , Vault]
 commands:
